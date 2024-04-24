@@ -1,0 +1,50 @@
+input{
+    padding: 1px 7px;
+    border-radius: 4px;
+    font-weight: 700;
+    border-bottom:1px solid black;
+
+}
+label {
+    font-weight: 800;
+    color:black;
+    font-size: 18px;
+}
+h1{
+    border-radius: 12px;
+    font-size: 2.3rem;
+    color:rgba( 5, 5, 6);
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.result-box {
+    background: #ccc;
+    margin-top: 10px;
+    border: 1px solid #030202;
+    border-radius: 4px;
+    padding: 8px;
+}
+p{
+    padding : .2rem;
+    font-size: 16px;
+    color: rgb(249, 249, 249);
+
+}
+.maindiv {
+    width:100vw;
+    height: 100vh;
+    background-image: url(yoga3.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: 70vh;
+    width: 20vw;
+    backdrop-filter:blur(10px);
+    background: rgb(255,255,255.0.2);
+    padding:1rem;
+    border-radius: 12px;
+    border:3px solid #27c822;
+    padding-left: 30px;;
+}
